@@ -4,7 +4,8 @@
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS
 - 📫 Como me achar guirramatheus1@gmail.com
 
-<img src="https://user-images.githubusercontent.com/77081114/138374226-484cf5e1-baf1-43c5-b397-2451d105e680.png"/>
+
+<img src="https://user-images.githubusercontent.com/77081114/138374345-9c864b21-4cd3-4301-a273-5016222f1685.png"/>
 
 
 <!---
