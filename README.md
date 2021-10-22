@@ -5,7 +5,7 @@
 - 📫 Como me achar guirramatheus1@gmail.com
 
 
-<img src="https://user-images.githubusercontent.com/77081114/138374345-9c864b21-4cd3-4301-a273-5016222f1685.png"/>
+<img src="https://user-images.githubusercontent.com/77081114/138374345-9c864b21-4cd3-4301-a273-5016222f1685.png" width="300px"/>
 
 
 <!---
