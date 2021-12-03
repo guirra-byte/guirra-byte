@@ -5,8 +5,8 @@
 
 ### 👋 Oiee, Eu sou Matheus Guirra
 - 👀 Interessado em estar em constante evolução mesmo que seja devagar
-- 🌱 Estudando Firebase e Scrum 
-- 💬 Pergunte-me sobre JavaScript, HTML, CSS
+- 🌱 Estudando Node.js By Ignite - RocketSeat 
+- 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.js 
 - 📫 Como me achar guirramatheus1@gmail.com
 
 
