@@ -5,7 +5,7 @@
 
 ### 👋 Oiee, Eu sou Matheus Guirra
 - 👀 Interessado em estar em constante evolução mesmo que seja devagar
-- 🌱 Estudando Node.js, TypeScript and SQL By Ignite - RocketSeat 
+- 🌱 Estudando Node.js, TypeScript By Ignite - RocketSeat 
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.js, SCRUM
 - 📫 Como me achar guirramatheus1@gmail.com
 
