@@ -1,7 +1,7 @@
 
 
 <h1>Hard work beats talent whenever talent doesn't work hard</h1>
-<img src="https://user-images.githubusercontent.com/77081114/138374726-5bb6ba85-6a27-4dbb-888a-67e5a15e2dac.png" width="1000px" height="500px"/>
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/)
 
 ### 👋 Oiee, Eu sou Matheus Guirra
 - 👀 Interessado em estar em constante evolução mesmo que seja devagar
