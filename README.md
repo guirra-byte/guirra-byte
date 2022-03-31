@@ -3,7 +3,7 @@
 <h1>Hard work beats talent whenever talent doesn't work hard</h1>
 (https://github-readme-stats.vercel.app/api?username=guirra-byte&theme=default)](https://github.com/guirra-byte/)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=guirra-byte&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=guirra-byte&show_icons=true&title_color=fca311&text_color=ffffff&icon_color=fca311&bg_color=000000&cache_seconds=2300">
 
 ### Faça um breve apresentação sobre você
 
