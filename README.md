@@ -1,7 +1,7 @@
 
 
 <h1>Hard work beats talent whenever talent doesn't work hard</h1>
-[![card](https://github-readme-stats.vercel.app/api?username=guirra-byte&theme=default)](https://github.com/guirra-byte/)
+(https://github-readme-stats.vercel.app/api?username=guirra-byte&theme=default)](https://github.com/guirra-byte/)
 
 ### 👋 Oiee, Eu sou Matheus Guirra
 - 👀 Interessado em estar em constante evolução mesmo que seja devagar
