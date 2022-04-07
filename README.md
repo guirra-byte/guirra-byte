@@ -4,8 +4,6 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=guirra-byte&show_icons=true&title_color=7400b8&text_color=ffffff&icon_color=7400b8&bg_color=00b4d8&cache_seconds=2300">
 
-### Quem sou eu??
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Guirra&color=00b4d8&style=for-the-badge&logo=GitHub">
 
 
