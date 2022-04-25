@@ -1,6 +1,6 @@
 
 
-<h1>Hard work beats talent whenever talent doesn't work hard</h1>
+
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=guirra-byte&show_icons=true&title_color=7400b8&text_color=ffffff&icon_color=7400b8&bg_color=00b4d8&cache_seconds=2300">
 
