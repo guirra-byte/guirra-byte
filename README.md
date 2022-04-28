@@ -26,7 +26,7 @@ Eu sou desenvolvedor Back-End.<br/><br/>
 
 ### 👋 Oiee, Eu sou Matheus Guirra
 - 👀 Interessado em estar em constante evolução mesmo que seja devagar
-- 🌱 Atualmente estou estudando Node.js, Prisma, TypeScript By Ignite - RocketSeat
+- 🌱 Atualmente estou estudando Node.js, Prisma, Docker, TypeScript By Ignite - RocketSeat
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.js, TypeScript
 - 📫 Como me achar guirramatheus1@gmail.com
 
