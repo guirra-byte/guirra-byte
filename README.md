@@ -22,7 +22,7 @@
 <hr>
 
 ### 👋 Oiee, Eu sou Matheus Guirra
-- 💎 Desenvolvedor Back-end na Precato
+- 💎  **`Desenvolvedor Back-end`** na Precato
 - 👀 Interessado em estar em constante evolução mesmo que seja devagar
 - 🌱 Atualmente estou estudando **Node.js, React.Js, AWS** By Ignite - RocketSeat
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.js, TypeScript
