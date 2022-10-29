@@ -12,9 +12,8 @@
   <img src="https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-00b4d8?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nest.Js-F5455C?style=for-the-badge&logo=nestjs&logoColor=FFF">
+  <img src="https://img.shields.io/badge/React.Js-00b4d8?style=for-the-badge&logo=react&logoColor=FFF">
   
 
 
@@ -22,9 +21,9 @@
 <hr>
 
 ### 👋 Oiee, Eu sou Matheus Guirra
-- 💎  **`Desenvolvedor Back-end`** na Precato
-- 👀 Interessado em estar em constante evolução mesmo que seja devagar
-- 🌱 Atualmente estou estudando **Node.js, React.Js, AWS** By Ignite - RocketSeat
+- 💎  **`Desenvolvedor Back-end`** na **`Precato`**
+- 👀 **`Nada no mundo supera a persistência`**
+- 🌱 Atualmente estou estudando **Nest.js, React.Js, Serverless**
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.js, TypeScript
 - 📫 Como me achar guirramatheus1@gmail.com
 
