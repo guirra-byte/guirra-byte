@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/TypeScript-00b4d8?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Nest.Js-F5455C?style=for-the-badge&logo=nestjs&logoColor=FFF">
   <img src="https://img.shields.io/badge/React.Js-00b4d8?style=for-the-badge&logo=react&logoColor=FFF">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   
 
 
@@ -24,7 +25,7 @@
 - 👀 **`Nada no mundo supera a persistência`**
 - 🌱 Atualmente estou estudando **Nest.js, React.Js, Serverless**
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.js, TypeScript
-- 📫 Como me achar guirramatheus1@gmail.com
+- 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
 
