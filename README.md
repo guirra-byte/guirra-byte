@@ -20,7 +20,7 @@
 <hr>
 
 ### 👋 Oiee, Eu sou Matheus Guirra
-- 💎  **`Desenvolvedor Back-end`** na **`Precato`**
+- 💎  **`Desenvolvedor Back-end`** na <a href="https://www.linkedin.com/company/precato/mycompany/">**`Precato`**</a>
 - 👀 **`Nada no mundo supera a persistência`**
 - 🌱 Atualmente estou estudando **Nest.js, React.Js, Serverless**
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.js, TypeScript
