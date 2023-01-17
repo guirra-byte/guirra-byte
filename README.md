@@ -2,8 +2,8 @@
 
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=guirra-byte&show_icons=true&title_color=7400b8&text_color=ffffff&icon_color=7400b8&bg_color=00b4d8&cache_seconds=2300">
-![Precato](https://github.com/guirra-byte/Questions-and-answers/issues/2#issue-1536630247.png)
+
+![Screenshot_20230117-124547_LinkedIn](https://user-images.githubusercontent.com/77081114/212947192-9e90e520-c202-4757-b7ad-7bd5bf4b36c0.jpg)
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Guirra&color=00b4d8&style=for-the-badge&logo=GitHub">
 
