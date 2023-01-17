@@ -6,14 +6,13 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Guirra&color=00b4d8&style=for-the-badge&logo=GitHub">
 
-
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-00b4d8?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Nest.Js-F5455C?style=for-the-badge&logo=nestjs&logoColor=FFF">
   <img src="https://img.shields.io/badge/React.Js-00b4d8?style=for-the-badge&logo=react&logoColor=FFF">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-023e8a?style=for-the-badge&logo=python&logoColor=white">
   
 
 
