@@ -10,10 +10,11 @@
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-00b4d8?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-0083ff?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React.Js-00b4d8?style=for-the-badge&logo=react&logoColor=FFF">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-023e8a?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.Js-ff4040?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-d75413?style=for-the-badge&logo=rust&logoColor=black">
   
 
 
@@ -24,7 +25,6 @@
 - 💎  **`Desenvolvedor Back-end`** na <a href="https://www.linkedin.com/company/precato/mycompany/">**`Precato`**</a>
 - 👀 **`Nada no mundo supera a persistência`**
 - 🌱 Atualmente estou estudando **Nest.Js, Amazon Web Services e Rust**
-- 💬 Pergunte-me sobre JavaScript, HTML, CSS, Node.js, TypeScript
 - 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
