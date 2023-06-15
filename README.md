@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/TypeScript-0083ff?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React.Js-00b4d8?style=for-the-badge&logo=react&logoColor=FFF">
   <img src="https://img.shields.io/badge/Nest.Js-ff4040?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-d75413?style=for-the-badge&logo=rust&logoColor=black">
   
 
 
