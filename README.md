@@ -22,7 +22,7 @@
 ### 👋 Oiee, Eu sou Matheus Guirra
 - 💎  **`Desenvolvedor Back-end`** na <a href="https://www.linkedin.com/company/precato/mycompany/">**`Precato`**</a>
 - 👀 **`Nada no mundo supera a persistência`**
-- 🌱 Atualmente estou estudando **Nest.Js, Amazon Web Services e Rust**
+- 🌱 Atualmente estou estudando **Nest.Js, Node.Js, Golang**
 - 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
