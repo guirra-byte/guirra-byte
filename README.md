@@ -13,7 +13,8 @@
   <img src="https://img.shields.io/badge/TypeScript-0083ff?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React.Js-00b4d8?style=for-the-badge&logo=react&logoColor=FFF">
   <img src="https://img.shields.io/badge/Nest.Js-ff4040?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Golang-00b4d8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-00b4d8?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Fastify-00b4d8?style=for-the-badge&logo=fastify&logoColor=white">
   
 
 
@@ -21,9 +22,9 @@
 <hr>
 
 ### 👋 Oiee, Eu sou Matheus Guirra
-- 💎  **`Desenvolvedor Back-end`** na <a href="https://www.linkedin.com/company/precato/mycompany/">**`Precato`**</a>
+- 💎  **`Desenvolvedor Back-end`**
 - 👀 **`Nada no mundo supera a persistência`**
-- 🌱 Atualmente estou estudando **Nest.Js, Node.Js, Golang**
+- 🌱 Atualmente estou estudando **Nest.Js, Node.Js, Fastify, DDD**
 - 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
