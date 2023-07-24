@@ -3,7 +3,7 @@
 
 
 
-![Banner para Linkedin Gradientes Ininterruptos Finanças Verde Azul (3)](https://github.com/guirra-byte/Questions-and-answers/assets/77081114/fc3f110c-1932-4182-8ca0-eb8c6b888359)
+![Banner para Linkedin Gradientes Ininterruptos Finanças Verde Azul (2)](https://github.com/guirra-byte/Questions-and-answers/assets/77081114/bb2c10ab-6a4c-4d55-b380-6512f16abc19)
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Guirra&color=00b4d8&style=for-the-badge&logo=GitHub">
 
