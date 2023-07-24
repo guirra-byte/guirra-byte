@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/Nest.Js-ff4040?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Fastify-fff?style=for-the-badge&logo=fastify&logoColor=black">
-  <img src="https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-0a9396?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=fff">
   
 
 
