@@ -3,7 +3,7 @@
 
 
 
-![Screenshot_20230117-124547_LinkedIn](https://user-images.githubusercontent.com/77081114/212947192-9e90e520-c202-4757-b7ad-7bd5bf4b36c0.jpg)
+![Banner para Linkedin Gradientes Ininterruptos Finanças Verde Azul (3)](https://github.com/guirra-byte/Questions-and-answers/assets/77081114/fc3f110c-1932-4182-8ca0-eb8c6b888359)
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Guirra&color=00b4d8&style=for-the-badge&logo=GitHub">
 
@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/TypeScript-0083ff?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React.Js-00b4d8?style=for-the-badge&logo=react&logoColor=FFF">
   <img src="https://img.shields.io/badge/Nest.Js-ff4040?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-00b4d8?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Fastify-00b4d8?style=for-the-badge&logo=fastify&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=white">
   
 
 
@@ -24,7 +24,7 @@
 ### 👋 Oiee, Eu sou Matheus Guirra
 - 💎  **`Desenvolvedor Back-end`**
 - 👀 **`Nada no mundo supera a persistência`**
-- 🌱 Atualmente estou estudando **Nest.Js, Node.Js, Fastify, DDD**
+- 🌱 Atualmente estou estudando **Nest.Js, Fastify, DDD, GraphQL**
 - 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
