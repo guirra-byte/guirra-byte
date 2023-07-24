@@ -28,6 +28,7 @@
 - 👀 **`Nada no mundo supera a persistência`**
 - 🌱 Atualmente estou estudando **Nest.Js, Fastify, DDD, GraphQL**
 - 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
+- 🎬 Aqui está meu currículo <a href="C:/Users/Matheus%20Guirra/Documents/Codes/full_stack_week/Matheus_Guirra_Sousa_-_Desenvolvedor_BackEnd_Node.js_JR.pdf">**`The Notorious`**</a>
 
 
 
