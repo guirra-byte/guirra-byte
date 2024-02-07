@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Matheus Guirra&color=00b4d8&style=for-the-badge&logo=GitHub">
 
 
-### `Habilidades:`
+### `Experiência Técnica:`
 <p align="start">
     <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,nestjs,expressjs&t=70" />
 </p>
