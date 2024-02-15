@@ -1,8 +1,3 @@
-
-
-
-
-
 ![Banner para Linkedin Gradientes Ininterruptos Finanças Verde Azul (2)](https://github.com/guirra-byte/Questions-and-answers/assets/77081114/bb2c10ab-6a4c-4d55-b380-6512f16abc19)
 
 
@@ -13,7 +8,8 @@
 <hr>
 
 ### 👋 Oiee, Eu sou Matheus Guirra
-- 💎  **`Desenvolvedor Back-end`**
+- 💎  **`Software Developer`** <br>
+Por cerca de mais de um ano criei soluções inovadoras utilizando tecnologias como **Node.js, TypeScript, Express, React.Js, Redis e PostgreSQL** na equipe de tecnologia da **`Precato`**. Minha busca constante por aprimoramento reflete-se na aplicação criativa e eficiente de novas tendências. Habilidades sólidas em desenvolvimento, solução de problemas e trabalho e liderança de equipe são essenciais para o sucesso dos projetos.
 - 👀 **`Nada no mundo supera a persistência`**
 - 🌱 Atualmente estou estudando **Nest.Js, SSE, Node.Js Multi Threads, Node.Js Streams**
 - 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
