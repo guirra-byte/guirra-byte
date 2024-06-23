@@ -14,8 +14,6 @@ Por cerca de mais de um ano criei soluções inovadoras utilizando tecnologias c
 - 👀 **`Nada no mundo supera a persistência`**
 - 🌱 Atualmente estou estudando **React.Js, RabbitMQ**
 - 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
-- 🎬 Clique para baixar <a href="https://github.com/guirra-byte/Questions-and-answers/files/12146968/Matheus_Guirra_Sousa_-_Desenvolvedor_BackEnd_Node.js_JR.pdf
-">**`meu currículo`**</a>
 
 
 
