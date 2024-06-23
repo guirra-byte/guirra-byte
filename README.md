@@ -13,7 +13,7 @@ Por cerca de mais de um ano criei soluções inovadoras utilizando tecnologias c
 - ✅ <a href="https://www.instagram.com/lifeshapebrasil/">**`Faço parte da Turma VII do Programa Lifeshapers`**</a> 
 - 👀 **`Nada no mundo supera a persistência`**
 - 🌱 Atualmente estou estudando **React.Js, RabbitMQ**
-- 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
+- 📫 Me encontre em outra rede <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
 
