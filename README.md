@@ -12,7 +12,7 @@
 Por cerca de mais de um ano criei soluções inovadoras utilizando tecnologias como **Node.js, TypeScript, Express, React.Js, Redis e PostgreSQL** na equipe de tecnologia da **`Precato`**. Vivo em uma constante busca de aprimorar habilidades sólidas em desenvolvimento, solução de problemas, trabalho em equipe e **`liderança`** para garantir o sucesso dos projetos.
 - ✅ <a href="https://www.instagram.com/lifeshapebrasil/">**`Faço parte da Turma VII do Programa Lifeshapers`**</a> 
 - 👀 **`Nada no mundo supera a persistência`**
-- 🌱 Atualmente estou estudando **Nest.Js, SSE, Node.Js Multi Threads, Node.Js Streams**
+- 🌱 Atualmente estou estudando **React.Js, RabbitMQ**
 - 📫 Para me achar é só clicar <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 - 🎬 Clique para baixar <a href="https://github.com/guirra-byte/Questions-and-answers/files/12146968/Matheus_Guirra_Sousa_-_Desenvolvedor_BackEnd_Node.js_JR.pdf
 ">**`meu currículo`**</a>
