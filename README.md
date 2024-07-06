@@ -9,7 +9,7 @@
 
 ### 👋 Oiee, Eu sou Matheus Guirra
 - 💎  **`Software Developer`** <br>
-Por cerca de mais de um 1 criei soluções inovadoras utilizando tecnologias como **Node.js, TypeScript, Express, React.Js, Redis e PostgreSQL** na equipe de tecnologia da **`Precato`**. Vivo em uma constante busca de aprimorar habilidades sólidas em desenvolvimento, solução de problemas, trabalho em equipe e **`liderança`** para garantir o sucesso dos projetos.
+Por cerca de mais de um 1 ano criei soluções inovadoras utilizando tecnologias como **Node.js, TypeScript, Express, React.Js, Redis e PostgreSQL** na equipe de tecnologia da **`Precato`**. Vivo em uma constante busca de aprimorar habilidades sólidas em desenvolvimento, solução de problemas, trabalho em equipe e **`liderança`** para garantir o sucesso dos projetos.
 - ✅ <a href="https://www.instagram.com/lifeshapebrasil/">**`Faço parte da Turma VII do Programa Lifeshapers`**</a> 
 - 👀 **`Nada no mundo supera a persistência`**
 - 🌱 Atualmente estou estudando **React.Js, RabbitMQ e Rust**
