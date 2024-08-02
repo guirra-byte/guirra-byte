@@ -3,7 +3,7 @@
 
 ### `Experiência Técnica:`
 <p align="start">
-    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,nestjs,expressjs,docker,prisma&t=40" />
+    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,nestjs,expressjs,docker,prisma&t=40" />
 </p>
 <hr>
 
