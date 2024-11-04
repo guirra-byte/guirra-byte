@@ -3,6 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Backend developer with more than one year of professional experience building innovations and solutions using technologies such as Node.js, TypeScript, Express, RabbitMq, Redis, Docker, Prisma ORM and PostgreSQL. My focus is on developing solid skills in software development, problem solving, teamwork, and leadership to deliver project success.
 
+## **`Skills:`**
+<p align="start">
+    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,vue,rabbitmq,expressjs,nestjs,docker,prisma&t=40" />
+</p>
+
 - 🌍  I'm based in Brasil, Brasília - DF
 - ✉️  You can contact me at [guirramatheus2@gmail.com](mailto:guirramatheus2@gmail.com)
 - ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">**`Part of Lifeshapers Program (Leadership Program built for University Students)`**</a> 
