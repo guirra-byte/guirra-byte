@@ -1,15 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Guirra Sousa
 ============================================================================================================================================
 
-Backend Node.Js Developer
--------------------------
-
-Desenvolvedor backend com mais de 1 Ano de experiência profissional criando soluções inovadoras utilizando tecnologias como Node.js, TypeScript, Express, RabbitMq, Redis, Docker, Prisma ORM e PostgreSQL. Vivo em uma constante busca de aprimorar habilidades sólidas em desenvolvimento, solução de problemas, trabalho em equipe e liderança para garantir o sucesso dos projetos.
+Backend developer with more than one year of professional experience building innovations and solutions using technologies such as Node.js, TypeScript, Express, RabbitMq, Redis, Docker, Prisma ORM and PostgreSQL. My focus is on developing solid skills in software development, problem solving, teamwork, and leadership to deliver project success.
 
 - 🌍  I'm based in Brasil, Brasília - DF
 - ✉️  You can contact me at [guirramatheus2@gmail.com](mailto:guirramatheus2@gmail.com)
-- ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">**`Faço parte da Turma VII do Programa de Liderança Lifeshapers`**</a> 
-- 👀 **`Nada no mundo supera a persistência`**
+- ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">**`Part of Lifeshapers Program (Leadership Program built for University Students)`**</a> 
+- 👀 **`Nothing in this world beats persistence`**
 - 🌱 Actually learning **Node.Js Core, Batch and Parallel Processing**
 - 📫 Find me in another place <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
