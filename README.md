@@ -1,19 +1,17 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Guirra Sousa
+============================================================================================================================================
 
+Backend Node.Js Developer
+-------------------------
 
+Desenvolvedor backend com mais de 1 Ano de experiência profissional criando soluções inovadoras utilizando tecnologias como Node.js, TypeScript, Express, RabbitMq, Redis, Docker, Prisma ORM e PostgreSQL. Vivo em uma constante busca de aprimorar habilidades sólidas em desenvolvimento, solução de problemas, trabalho em equipe e liderança para garantir o sucesso dos projetos.
 
-### `Experiência Técnica:`
-<p align="start">
-    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,vue,rabbitmq,expressjs,nestjs,docker,prisma&t=40" />
-</p>
-<hr>
-
-### 👋 Oiee, Eu sou Matheus Guirra
-- 💎  **`Software Developer`** <br>
-Por cerca de mais de um 1 ano criei soluções inovadoras utilizando tecnologias como **Node.js, TypeScript, Express, React.Js, Redis e PostgreSQL** na equipe de tecnologia da **`Precato`**. Vivo em uma constante busca de aprimorar habilidades sólidas em desenvolvimento, solução de problemas, trabalho em equipe e **`liderança`** para garantir o sucesso dos projetos.
+- 🌍  I'm based in Brasil, Brasília - DF
+- ✉️  You can contact me at [guirramatheus2@gmail.com](mailto:guirramatheus2@gmail.com)
 - ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">**`Faço parte da Turma VII do Programa de Liderança Lifeshapers`**</a> 
 - 👀 **`Nada no mundo supera a persistência`**
-- 🌱 Atualmente estou estudando **Vue.Js**
-- 📫 Me encontre em outra rede <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
+- 🌱 Actually learning **Node.Js Core, Batch and Parallel Processing**
+- 📫 Find me in another place <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
 
