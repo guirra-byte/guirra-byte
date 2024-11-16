@@ -5,7 +5,7 @@ Backend developer with more than one year of professional experience building in
 
 ## **`Skills:`**
 <p align="start">
-    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,vue,rabbitmq,expressjs,fastify,docker,prisma&t=40" />
+    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,expressjs,fastify,docker,prisma&t=40" />
 </p>
 
 - 🌍  I'm based in Brasil, Brasília - DF
