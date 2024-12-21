@@ -5,14 +5,14 @@ Backend developer with more than one year of professional experience building in
 
 ## **`Skills:`**
 <p align="start">
-    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,expressjs,fastify,angular,docker,prisma&t=40" />
+    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,expressjs,fastify,angular,nextjs,docker,prisma&t=40" />
 </p>
 
 - 🌍  I'm based in Brasil, Brasília - DF
 - ✉️  You can contact me at [guirramatheus2@gmail.com](mailto:guirramatheus2@gmail.com)
 - ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">**`Part of Lifeshapers Program (Leadership Program built for University Students)`**</a> 
 - 👀 **`Nothing in this world beats persistence`**
-- 🌱 Actually learning **Node.Js Core, Batch and Parallel Processing, Fastify Framework and Angular**
+- 🌱 Actually learning **Node.Js Core, Batch and Parallel Processing, Fastify Framework, Angular and Next.Js**
 - 📫 Find me in another place <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
