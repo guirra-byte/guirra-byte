@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Guirra Sousa
-============================================================================================================================================
+![image](https://github.com/user-attachments/assets/d1d65c05-8304-4751-9671-373ce07d0c15)
+
 
 Backend developer with more than one year of professional experience building innovations and solutions using technologies such as Node.js, TypeScript, Express, RabbitMq, Redis, Docker, Prisma ORM and PostgreSQL. My focus is on developing solid skills in software development, problem solving, teamwork, and leadership to deliver project success.
 
