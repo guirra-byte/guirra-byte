@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d1d65c05-8304-4751-9671-373ce07d0c15)
+
+![image (12)](https://github.com/user-attachments/assets/5a8a8f09-2420-4bc1-aaa9-79ec8d4d6dc8)
 
 
 Backend developer with more than one year of professional experience building innovations and solutions using technologies such as Node.js, TypeScript, Express, RabbitMq, Redis, Docker, Prisma ORM and PostgreSQL. My focus is on developing solid skills in software development, problem solving, teamwork, and leadership to deliver project success.
@@ -12,7 +13,7 @@ Backend developer with more than one year of professional experience building in
 - ✉️  You can contact me at [guirramatheus2@gmail.com](mailto:guirramatheus2@gmail.com)
 - ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">**`Part of Lifeshapers Program (Leadership Program built for University Students)`**</a> 
 - 👀 **`Nothing in this world beats persistence`**
-- 🌱 Actually learning **Node.Js Core, Batch and Parallel Processing, Fastify Framework, Angular, Next.Js, Supabase (Edge Functions with Deno)**
+- 🌱 Actually learning **Node.Js Core, Batch and Parallel Processing, Fastify Framework, Next.Js, Supabase**
 - 📫 Find me in another place <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
 
 
