@@ -12,9 +12,9 @@ Backend developer with more than one year of professional experience building in
 - 🌍  I'm based in Brasil, Brasília - DF
 - ✉️  You can contact me at [guirramatheus2@gmail.com](mailto:guirramatheus2@gmail.com)
 - ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">**`Part of Lifeshapers Program (Leadership Program built for University Students)`**</a> 
-- 👀 **`Nothing in this world beats persistence`**
+- 👀 **`Valar Dohaerius`**
 - 🌱 Actually learning **Node.Js Core, Batch and Parallel Processing, Fastify Framework, Next.Js, Supabase**
-- 📫 Find me in another place <a href="https://www.linkedin.com/in/matheus-guirra-9192a3224/">**`Matheus Guirra`**</a>
+- 📫 Find me in another place <a href="https://www.linkedin.com/in/matheus-guirra/">**`Matheus Guirra`**</a>
 
 
 
