@@ -1,20 +1,23 @@
 
-![image (12)](https://github.com/user-attachments/assets/5a8a8f09-2420-4bc1-aaa9-79ec8d4d6dc8)
+<img width="1500" height="500" alt="image (1)" src="https://github.com/user-attachments/assets/376823bc-eabc-4254-a1c2-06b44c72957b" />
 
 
-Backend developer with more than one year of professional experience building innovations and solutions using technologies such as Node.js, TypeScript, Express, RabbitMq, Redis, Docker, Prisma ORM and PostgreSQL. My focus is on developing solid skills in software development, problem solving, teamwork, and leadership to deliver project success.
+Sou Software Developer na Anka Tech, com mais de 3 anos de experiência no desenvolvimento de soluções escaláveis e de alto impacto usando tecnologias como Node.js, TypeScript, Fastify, Express, RabbitMQ, Redis, Docker, Prisma ORM e PostgreSQL.
+Atualmente, atuo no backend, com foco em arquitetura de software, processamento assíncrono e sistemas distribuídos.
+
+Tenho interesse em evoluir constantemente minhas habilidades em desenvolvimento de software, resolução de problemas, liderança e trabalho em equipe, entregando projetos que unem eficiência técnica e valor para o negócio.
 
 ## **`Skills:`**
 <p align="start">
-    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,expressjs,fastify,angular,nextjs,docker,prisma&t=40" />
+    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,expressjs,fastify,nextjs,docker,prisma&t=60" />
 </p>
 
-- 🌍  I'm based in Brasil, Brasília - DF
-- ✉️  You can contact me at [guirramatheus2@gmail.com](mailto:guirramatheus2@gmail.com)
-- ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">**`Part of Lifeshapers Program (Leadership Program built for University Students)`**</a> 
-- 👀 **`Valar Dohaerius - Game of Thrones`**
-- 🌱 Actually learning **Node.Js Core, Batch and Parallel Processing, Fastify Framework, Next.Js, Supabase**
-- 📫 Find me in another place <a href="https://www.linkedin.com/in/matheus-guirra/">**`Matheus Guirra`**</a>
+🌍 Moro em Brasília - DF, Brasil <br>
+✉️ Você pode falar comigo em: guirramatheus2@gmail.com <br>
+✅ <a href="https://www.instagram.com/lifeshapersbrasil/">Membro do Lifeshapers Program (Programa de Liderança para Universitários)</a> <br>
+🌱 Atualmente estudando Node.js Core, Processamento em Lote e Paralelo, Fastify, Next.js e Supabase <br>
+📫 Também estou no LinkedIn: <a href="https://www.linkedin.com/in/matheus-guirra/">Matheus Guirra</a> <br>
+👀 Valar Dohaeris - Game of Thrones
 
 
 
