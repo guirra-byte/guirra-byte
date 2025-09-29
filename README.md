@@ -3,7 +3,7 @@
 
 
 Sou Software Developer na Anka Tech, com mais de 3 anos de experiência no desenvolvimento de soluções escaláveis e de alto impacto usando tecnologias como Node.js, TypeScript, Fastify, Express, RabbitMQ, Redis, Docker, Prisma ORM e PostgreSQL.
-Atualmente, atuo no backend, com foco em arquitetura de software, processamento assíncrono e sistemas distribuídos.
+Atualmente, atuo no backend, com foco em arquitetura de software, performance e sistemas distribuídos.
 
 Tenho interesse em evoluir constantemente minhas habilidades em desenvolvimento de software, resolução de problemas, liderança e trabalho em equipe, entregando projetos que unem eficiência técnica e valor para o negócio.
 
