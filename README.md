@@ -12,7 +12,7 @@ Tenho interesse em evoluir constantemente minhas habilidades em desenvolvimento 
 </p>
 
 🌍 Moro em Brasília - DF, Brasil <br>
-✉️ Você pode falar comigo em: guirramatheus2@gmail.com <br>
+✉️ Você pode falar comigo em: guirramatheus1@gmail.com <br>
 ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">Membro do Lifeshapers Program (Programa de Liderança para Universitários)</a> <br>
 🌱 Atualmente estudando Node.js Core, Processamento em Lote e Paralelo, Fastify, Next.js e Supabase <br>
 📫 Também estou no LinkedIn: <a href="https://www.linkedin.com/in/matheus-guirra/">Matheus Guirra</a> <br>
