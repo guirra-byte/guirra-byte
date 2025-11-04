@@ -6,11 +6,23 @@ Atualmente, atuo no backend, com foco em arquitetura de software, performance e 
 
 Tenho interesse em evoluir constantemente minhas habilidades em desenvolvimento de software, resolução de problemas, liderança e trabalho em equipe, entregando projetos que unem eficiência técnica e valor para o negócio.
 
-## **`Skills:`**
-<p align="start">
-    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,expressjs,fastify,nextjs,docker,prisma,terraform,aws&t=60" />
-</p>
+## 🧠 Skills Técnicas
 
+| Domínio Técnico | Estudando Atualmente |
+|--------------|----------------------|
+| <img src="https://www.aikonbox.com.br/icons?i=javascript" width="30"/> **JavaScript** | <img src="https://www.aikonbox.com.br/icons?i=terraform" width="30"/> **Terraform** |
+| <img src="https://www.aikonbox.com.br/icons?i=typescript" width="30"/> **TypeScript** | <img src="https://www.aikonbox.com.br/icons?i=aws" width="30"/> **Serviços AWS (Lambda, S3, SQS, SNS, ECR)** |
+| <img src="https://www.aikonbox.com.br/icons?i=nodejs" width="30"/> **Node.js**
+| <img src="https://www.aikonbox.com.br/icons?i=expressjs" width="30"/> **Express.js** | 
+| <img src="https://www.aikonbox.com.br/icons?i=fastify" width="30"/> **Fastify**
+| <img src="https://www.aikonbox.com.br/icons?i=nextjs" width="30"/> **Next.js** |
+| <img src="https://www.aikonbox.com.br/icons?i=prisma" width="30"/> **Prisma**
+| <img src="https://www.aikonbox.com.br/icons?i=rabbitmq" width="30"/> **RabbitMQ** |
+| <img src="https://www.aikonbox.com.br/icons?i=docker" width="30"/> **Docker**
+
+
+
+## 🙀 Sobre Mim
 🌍 Moro em Brasília - DF, Brasil <br>
 ✉️ Você pode falar comigo em: guirramatheus1@gmail.com <br>
 ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">Membro do Lifeshapers Program (Programa de Liderança para Universitários)</a> <br>
