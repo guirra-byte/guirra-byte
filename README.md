@@ -8,13 +8,13 @@ Tenho interesse em evoluir constantemente minhas habilidades em desenvolvimento 
 
 ## **`Skills:`**
 <p align="start">
-    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,expressjs,fastify,nextjs,docker,prisma&t=60" />
+    <img src="https://www.aikonbox.com.br/icons?i=javascript,typescript,nodejs,rabbitmq,expressjs,fastify,nextjs,docker,prisma,terraform,aws&t=60" />
 </p>
 
 🌍 Moro em Brasília - DF, Brasil <br>
 ✉️ Você pode falar comigo em: guirramatheus1@gmail.com <br>
 ✅ <a href="https://www.instagram.com/lifeshapersbrasil/">Membro do Lifeshapers Program (Programa de Liderança para Universitários)</a> <br>
-🌱 Atualmente estudando Node.js Core, Processamento em Lote e Paralelo, Fastify, Next.js e Supabase <br>
+🌱 Atualmente estudando Terraform para provisionamento de Serviços AWS <br>
 📫 Também estou no LinkedIn: <a href="https://www.linkedin.com/in/matheus-guirra/">Matheus Guirra</a> <br>
 👀 Valar Dohaeris - Game of Thrones
 
