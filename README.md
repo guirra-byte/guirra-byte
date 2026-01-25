@@ -1,10 +1,6 @@
 <img width="1500" height="500" alt="image (2)" src="https://github.com/user-attachments/assets/c161cb50-a2b3-43f6-977e-18e9b5dc45eb" />
 
-
-Atualmente atuando como Desenvolvedor de Software na Anka Tech, com mais de 3 anos de experiência no desenvolvimento de soluções escaláveis e de alto impacto usando tecnologias como Node.js, TypeScript, Fastify, Express, RabbitMQ, Redis, Docker, Prisma ORM e PostgreSQL.
-Atualmente, atuo no backend, com foco em arquitetura de software, performance e sistemas distribuídos.
-
-Tenho interesse em evoluir constantemente minhas habilidades em desenvolvimento de software, resolução de problemas, liderança e trabalho em equipe, entregando projetos que unem eficiência técnica e valor para o negócio.
+Desenvolvedor de software com 3 anos de experiência. Ao longo desse período, trabalhei em projetos de impacto direto no negócio, incluindo **APIs transacionais**, **pipelines de processamento de dados**, agentes de IA, **integrações financeiras** e **sistemas distribuídos**, lidando com fluxos críticos e **decisões arquiteturais**.
 
 ## 🧠 Skills Técnicas
 
