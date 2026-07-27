@@ -14,7 +14,7 @@ Desenvolvedor de software com **3+ anos de experiência** criando aplicações e
 
 ## 💻 Stack
 
-**Backend:** Node.js, TypeScript, Fastify, NestJS, Express
+**Backend:** Node.js, TypeScript, Fastify, Express
 
 **Frontend:** React, Next.js
 
