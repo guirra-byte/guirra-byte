@@ -29,4 +29,4 @@ Desenvolvedor de software com **3+ anos de experiência** criando aplicações e
 💼 **LinkedIn:** https://www.linkedin.com/in/matheus-guirra/  
 🌱 Membro do Lifeshapers Program (Programa de Liderança para Universitários)
 
-> *"Valar Dohaeris."*
+> *"Valar Dohaeris." - Game Of Thrones*
