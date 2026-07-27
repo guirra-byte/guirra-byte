@@ -1,23 +1,32 @@
-# 👋 Fala champs, eu sou o Matheus Guirra
-> Software Developer @AnkaTech
+# 👋 Faaala Champs! Eu sou o Matheus Guirra
 
-Desenvolvedor de software com 3 anos de experiência. Ao longo desse período, trabalhei em projetos de impacto direto no negócio, incluindo **APIs transacionais**, **pipelines de processamento de dados**, agentes de IA, **integrações financeiras** e **sistemas distribuídos**, lidando com fluxos críticos e **decisões arquiteturais**.
+> Software Developer • Backend • Cloud • AI
 
-## 📚 Estudando atualmente
-Atualmente aprofundando conhecimentos em Terraform e Serviços AWS (Lambda, S3, SQS, SNS, ECR), com foco em infraestrutura como código com Terraform, arquiteturas orientadas a eventos e ambientes cloud escaláveis.
+Desenvolvedor de software com **3+ anos de experiência** criando aplicações escaláveis, APIs, integrações financeiras e sistemas distribuídos. Gosto de construir soluções simples, confiáveis e com foco em arquitetura, performance e experiência do desenvolvedor.
 
-## 🙀 Sobre Mim
-🌍 Moro em Brasília - DF, Brasil <br>
-✉️ Você pode falar comigo em: guirramatheus1@gmail.com <br>
-✅ <a href="https://www.instagram.com/lifeshapersbrasil/">Membro do Lifeshapers Program (Programa de Liderança para Universitários)</a> <br>
-📫 Também estou no LinkedIn: <a href="https://www.linkedin.com/in/matheus-guirra/">Matheus Guirra</a> <br>
-👀 Valar Dohaeris - Game of Thrones
+## 🚀 Atualmente estudando
 
+- ☁️ AWS (Lambda, S3, SQS, SNS, EventBridge e ECR)
+- 🏗️ Arquitetura de Software
+- 🌐 Sistemas Distribuídos
+- 📦 Terraform e Infrastructure as Code
+- 🤖 IA Generativa e AI Agents
 
+## 💻 Stack
 
-<!---
-guirra-byte/guirra-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+**Backend:** Node.js, TypeScript, Fastify, NestJS, Express
 
-div
---->
+**Frontend:** React, Next.js
+
+**Banco de Dados:** PostgreSQL, Redis
+
+**Cloud & DevOps:** AWS, Docker, Terraform, GitHub Actions
+
+## 🙋 Sobre mim
+
+📍 Brasília - DF, Brasil  
+📧 **Email:** guirramatheus1@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/matheus-guirra/  
+🌱 Membro do Lifeshapers Program (Programa de Liderança para Universitários)
+
+> *"Valar Dohaeris."*
