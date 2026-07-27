@@ -24,9 +24,10 @@ Desenvolvedor de software com **3+ anos de experiência** criando aplicações e
 
 ## 🙋 Sobre mim
 
+> *"Valar Dohaeris." - Game Of Thrones*
+
 📍 Brasília - DF, Brasil  
 📧 **Email:** guirramatheus1@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/matheus-guirra/  
 🌱 Membro do Lifeshapers Program (Programa de Liderança para Universitários)
 
-> *"Valar Dohaeris." - Game Of Thrones*
